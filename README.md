@@ -1,2 +1,3 @@
-# visao-computacional
-repositório dedicado aos estudos individuais e projetos de visão computacional.
+# Visão Computacional 👁️
+
+Repositório dedicado aos estudos e projetos indivíduais da subárea de Visão Computacional.
